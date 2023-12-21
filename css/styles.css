@@ -6,3 +6,8 @@
     background-color: rgb(245, 245, 245);
 }
 
+.container-menu{
+    flex-direction: row;
+    
+}
+
