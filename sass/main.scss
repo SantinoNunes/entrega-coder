@@ -21,6 +21,12 @@ h1{
     margin-top: 20px;
 }
 
+h4{
+    text-align: center;
+    margin-top: 20px;
+    padding: 1%;
+}
+
 .fotos-pedidos img{
     padding: 1rem;
     gap: 1rem;
@@ -105,4 +111,19 @@ img{
 iframe{
     width: 80%;
     height: 500px;
+}
+.slide{
+    margin-top: 10px;
+}
+.slide{
+    height: 65hv;
+}
+
+#carousell-nosotros img{ 
+min-height: 600px;
+object-fit: cover;
+}
+
+#carousel-nosotros{
+    width: lg -75px;
 }
