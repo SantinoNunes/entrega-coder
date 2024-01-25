@@ -1,0 +1,31 @@
+.texto-index{
+    position: relative;
+    bottom: -80px;
+    color: $c-white;
+}
+
+img{
+    width: 100%;
+    display: block;
+
+}
+.contenedor{
+    width: 90%;
+    max-width: 1200%;
+    margin: 0 auto;
+}
+
+.card{
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.card-header img{
+    border-radius: 8px;
+}
+
+.card-body{
+    padding: 20px 15px;
+    text-align: justify;
+}
+

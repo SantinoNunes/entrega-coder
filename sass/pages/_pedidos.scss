@@ -1,0 +1,14 @@
+.fotos-pedidos img{
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.letra-logo{
+    font-family: $ff-nunito;
+}
+
+@media (min-width: 768px) {}
+.fotos-pedidos{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}

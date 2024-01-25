@@ -1,0 +1,38 @@
+$ff-nunito: "nunito", sans-serif;
+$c-white: white;
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.c-azul{
+    color: blue;
+}
+
+.bc-gray{
+    background-color: rgb(245, 245, 245);
+}
+
+img{
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+.H2{
+    text-align: center;
+    margin-top: 20px;
+    font-family: $ff-nunito;
+}
+
+h4{
+    text-align: center;
+    margin-top: 20px;
+    padding: 1%;
+    font-family: $ff-nunito;
+}
